@@ -1,0 +1,67 @@
+.detailForm{
+    margin: 40px 0px 30px 0px;
+}
+.productDuoi{
+    margin: 40px 0px 0px 0px;
+}
+.productText{
+    margin: 40px 0px 40px 0px;
+}
+.productText h2{
+    font-family: "Berlin Sans FB Demi";
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #790281;
+}
+.textChiTiet{
+    margin: 30px 0px 40px 0px;
+}
+.textChiTiet h2{
+    font-family: "Berlin Sans FB Demi";
+    font-weight: bold;
+    font-size: 50px;
+    color: #790281;
+}
+.productNameDetail{
+    margin: 40px 0px 15px 10px;
+}
+.productNameDetail h4{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Berlin Sans FB Demi";
+}
+.itemDetail img{
+    border-radius: 10px;
+}
+.productPriceDetail{
+    margin: 15px 0px 15px 10px;
+}
+.productPriceDetail span{
+    font-weight: bold;
+    font-family: "Berlin Sans FB Demi";
+    font-size: 35px;
+}
+.noteDetail{
+margin: 0px 0px 0px 10px;
+}
+.noteDetail p{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Berlin Sans FB Demi";
+}
+.noteDetail p span{
+    font-size: 25px;
+}
+.buttonAll {
+    margin: 100px 0px 0px 10px;
+}
+.buttonAll a button{
+    font-size: 25px;
+}
+body{
+    background: #e35be9;
+    background: -webkit-linear-gradient(to right, #570be3, #f7c6ff);
+    background: linear-gradient(to right, #c055fa, #f7c6ff);
+    min-height: 100vh;
+}

@@ -1,0 +1,59 @@
+body{
+    background: #e35be9;
+    background: -webkit-linear-gradient(to right, #570be3, #f7c6ff);
+    background: linear-gradient(to right, #c055fa, #f7c6ff);
+    min-height: 100vh;
+}
+.textCart{
+    margin: 40px 0px 30px 30px;
+}
+.textCart h2{
+    font-family: "Berlin Sans FB Demi";
+    font-weight: bold;
+    font-size: 40px;
+    color: #790281;
+}
+.textThanhToan{
+    margin: 40px 0px 10px 0px;
+    background-color: #f47ffd;
+    border-radius: 7px;
+}
+.textThanhToan h2{
+    font-family: "Berlin Sans FB Demi";
+    font-weight: bold;
+    font-size: 40px;
+    color: #790281;
+    text-align: center;
+}
+section{
+    margin: 20px 0px 40px 0px;
+}
+.col-md-6 label{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Berlin Sans FB Demi";
+}
+option{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Berlin Sans FB Demi";
+}
+.col-12 label{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Berlin Sans FB Demi";
+}
+.information{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Berlin Sans FB Demi";
+}
+.informations{
+    margin: 15px 0px 0px 0px;
+}
+.textInfomation{
+    font-family: "Berlin Sans FB Demi";
+    font-weight: bold;
+    font-size: 22px;
+
+}

@@ -1,0 +1,40 @@
+footer {
+    background-color: #d861fa;
+    margin: 10px 0px 0px 0px;
+}
+.textFooterDuoi img {
+    width: 200px;
+    height: 80px;
+}
+.itemFooter {
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+.textFooterDuoi {
+    margin-bottom: 30px;
+}
+.textFooterTren {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.textFooterTren h3{
+    font-family: "Berlin Sans FB Demi";
+    font-weight: bold;
+}
+.textFooterDuoi p{
+    font-family: "Berlin Sans FB Demi";
+    font-size: 19px;
+}
+.textFooterDuoi li {
+    display: block;
+}
+.textFooterDuoi li :hover {
+    color: blue;
+}
+.textFooterDuoi a {
+    text-decoration: none;
+    color: black;
+    margin-left: -30px;
+    font-family: "Berlin Sans FB Demi";
+    font-size: 19px;
+}

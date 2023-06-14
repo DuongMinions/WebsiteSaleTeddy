@@ -1,0 +1,16 @@
+.menuGauBong{
+    background-color: #fdb9c5;
+}
+.nav-item a{
+    font-weight: bold;
+    font-family: "Berlin Sans FB Demi";
+    font-size: 26px;
+}
+.nav-item:hover{
+    color: #eb31f6;
+    padding: 5px 0px 5px 0px;
+    border-radius: 5px;
+}
+.nav-item a:hover{
+    color: #eb31f6;
+}
